@@ -1,112 +1,116 @@
 <div align="center">
 
-<!-- Animated header using capsule-render -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Hey,%20I'm%20Sneha%20R%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20·%20Full%20Stack%20Dev%20·%20AI%20Builder&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sneha%20R&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=ML%20Engineer%20·%20Full%20Stack%20Dev%20·%20AI%20Builder&descAlignY=65&descSize=18&stroke=6e40c9&strokeWidth=2)
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+real-world+ML+pipelines+%F0%9F%A7%A0;Full+Stack+Developer+%7C+React+%2B+Spring+Boot+%E2%9A%A1;97%25+Accuracy+Fraud+Detection+with+XGBoost;SIH+2024+Finalist+%F0%9F%8F%86;Open+to+exciting+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2800&pause=700&color=C084FC&center=true&vCenter=true&width=650&lines=🧠+Building+real-world+ML+pipelines;⚡+97%25+Accuracy+Fraud+Detection;🌐+Full+Stack+%7C+React+%2B+Spring+Boot;🏆+SIH+2024+Finalist+·+Top+50+Teams;🚀+6+Live+Deployed+Projects;💼+Open+to+exciting+opportunities)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c5cfc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-r-b90866290)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00e5c0?style=for-the-badge&logo=vercel&logoColor=white)](https://snehar-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-ff6b9d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssnehar36@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Snehar273)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-r-b90866290)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23C084FC.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://snehar-portfolio.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssnehar36@gmail.com)
 
 <br/>
 
-<!-- Profile views + followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=Snehar273&color=a78bfa&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Snehar273?label=Followers&style=flat-square&color=00e5c0)
+![Profile Views](https://komarev.com/ghpvc/?username=Snehar273&color=C084FC&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🧠 About Me
+<img align="right" alt="coding gif" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+
+## `$ whoami`
 
 ```python
 class Sneha:
-    name       = "Sneha R"
-    role       = ["ML Engineer", "Full Stack Developer", "AI Builder", "Data Analyst"]
-    education  = "B.Tech IT @ Sri Krishna College of Technology (2023–Present)"
-    cgpa       = 8.58
-    location   = "Coimbatore, Tamil Nadu 🇮🇳"
 
-    skills = {
-        "ML & Data"  : ["XGBoost", "Scikit-learn", "Pandas", "NumPy", "SMOTE", "KNN", "TF-IDF"],
-        "Languages"  : ["Python", "Java", "C++", "JavaScript", "SQL"],
-        "Frontend"   : ["React.js", "HTML/CSS", "Streamlit"],
-        "Backend"    : ["Spring Boot", "Node.js", "REST APIs"],
-        "Tools"      : ["Git", "Vercel", "MySQL", "Power BI", "Jupyter"],
-    }
+    name      = "Sneha R"
+    from_     = "Coimbatore, Tamil Nadu 🇮🇳"
+    edu       = "B.Tech IT @ SKCT · CGPA 8.58"
+    roles     = ["ML Engineer 🧠",
+                 "Full Stack Dev 🌐",
+                 "AI Builder 🤖"]
 
-    achievement = "SIH 2024 Finalist · Top 50 teams 🏆"
-    ml_best     = "97%+ accuracy fraud detection with XGBoost"
-    deployed    = 6  # live projects and counting!
+    now       = "Final year · Job hunting 🎯"
+    best_shot = "XGBoost fraud detector @ 97%+"
+    deployed  = 6  # live projects!
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing 🚀")
+    contact   = "ssnehar36@gmail.com"
 
-me = Sneha()
-me.say_hi()
+    def fun_fact(self):
+        return "I turn coffee ☕ into ML models 🤖"
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-**Languages**
+### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🧠 ML & Data Science
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**ML & Data Science**
+### 🌐 Web & Frameworks
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Web & Frameworks**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Projects That Actually Ship
 
 <div align="center">
 
-| Project | What it does | Stack | Live |
-|---|---|---|---|
-| 🔍 **Anomalyze** | Fraud detection with 97%+ accuracy | XGBoost · SMOTE · Streamlit | [↗ Live](https://anomalyzeee.streamlit.app/) |
-| 🕵️ **TruthLens** | AI lie detection via NLP + LLM | Groq · NLP · Sentiment | [↗ Live](https://truth-lens-mu.vercel.app/) |
-| 👗 **AURA** | AI outfit recommender + weather-aware | KNN · TF-IDF · Weather API | [↗ Live](https://aura-rust-xi.vercel.app/) |
-| 📋 **AttendX** | Secure attendance verification system | React · Auth · Full Stack | [↗ Live](https://attendx-self.vercel.app/login) |
-| ⚡ **WattWise** | Electricity usage time-series predictor | Scikit-learn · Pandas | [↗ Live](https://wattwisee.streamlit.app/) |
-| 😎 **NickCrafter** | AI nickname generator with personality | JavaScript · AI · Vercel | [↗ Live](https://nick-crafter.vercel.app/) |
-| 🔐 **AethelGuard** | AES-256 secure digital legacy vault | JWT · PBKDF2 · Security | Local App |
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  #   PROJECT         WHAT IT DOES                      LIVE LINK    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  01  Anomalyze   →  Fraud Detection · XGBoost · 97%+  ↗ streamlit  ║
+║  02  TruthLens   →  AI Lie Detector · Groq LLM · NLP  ↗ vercel     ║
+║  03  AURA        →  AI Outfit · KNN + Weather API      ↗ vercel     ║
+║  04  AttendX     →  Attendance Tracker · Full Stack    ↗ vercel     ║
+║  05  WattWise    →  Power Usage Forecasting · ML       ↗ streamlit  ║
+║  06  NickCrafter →  AI Nickname Generator · Fun tool   ↗ vercel     ║
+║  07  AethelGuard →  AES-256 Secure Vault · JWT · Local ■ private    ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+| 🔗 | Project | Stack | Status |
+|:--:|---------|-------|:------:|
+| [↗](https://anomalyzeee.streamlit.app/) | **Anomalyze** — End-to-end fraud detection with SMOTE balancing | `XGBoost` `SMOTE` `Streamlit` `Python` | 🟢 Live |
+| [↗](https://truth-lens-mu.vercel.app/) | **TruthLens** — Hybrid NLP lie detector with LLM reasoning | `Groq` `NLP` `Sentiment` `Python` | 🟢 Live |
+| [↗](https://aura-rust-xi.vercel.app/) | **AURA** — Weather-aware AI outfit recommender | `KNN` `TF-IDF` `Weather API` | 🟢 Live |
+| [↗](https://attendx-self.vercel.app/login) | **AttendX** — Secure presence verification system | `React` `Auth` `Node.js` | 🟢 Live |
+| [↗](https://wattwisee.streamlit.app/) | **WattWise** — Household electricity forecasting | `Time-Series` `Scikit-learn` `Pandas` | 🟢 Live |
+| [↗](https://nick-crafter.vercel.app/) | **NickCrafter** — AI nickname generator with personality | `JavaScript` `AI` `Vercel` | 🟢 Live |
+| 🔒 | **AethelGuard** — AES-256-GCM digital legacy vault | `JWT` `PBKDF2` `AES-256` | 🔵 Local |
 
 ---
 
@@ -114,25 +118,23 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Snehar273&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=00e5c0&text_color=e2e2f0"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Snehar273&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0a1e&title_color=C084FC&icon_color=818cf8&text_color=e2e8f0&ring_color=7c3aed" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehar273&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0a1e&title_color=C084FC&text_color=e2e8f0&langs_count=8" height="175"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehar273&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e2f0&langs_count=8"/>
+<br/><br/>
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Snehar273&theme=tokyonight&hide_border=true&background=0d0d1a&ring=a78bfa&fire=f472b6&currStreakLabel=00e5c0)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Snehar273&theme=midnight-purple&hide_border=true&background=0d0a1e&ring=C084FC&fire=f472b6&currStreakLabel=818cf8&sideLabels=C084FC&dates=94a3b8)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Trophy Cabinet
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Snehar273&theme=tokyonight&no-frame=true&column=6&margin-w=8&title=Stars,Followers,Commits,Repositories,Issues,PullRequest)
+![trophy](https://github-profile-trophy.vercel.app/?username=Snehar273&theme=darkhub&no-frame=true&column=7&margin-w=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,MultiLanguage)
 
 </div>
 
@@ -142,43 +144,83 @@ me.say_hi()
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Snehar273&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=a78bfa&line=00e5c0&point=f472b6)
+[![Sneha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Snehar273&theme=tokyo-night&hide_border=true&bg_color=0d0a1e&color=C084FC&line=7c3aed&point=f472b6&area=true&area_color=7c3aed)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 💼 Experience
+## 🎖️ Experience & Certifications
 
+<table>
+<tr>
+<td width="50%">
+
+### 💼 Experience
 ```
-🏢  Full Stack Intern     →  Mist Solutions         (Apr 2025 – May 2025)
-🏢  Frontend Dev Intern   →  Titan Company          (Dec 2024 – Jan 2025)
-🎓  B.Tech IT             →  SKCT, Coimbatore       (2023 – Present) · CGPA: 8.58
-🏆  SIH 2024 Finalist     →  Top 50 Teams           (2024)
+🏢 Full Stack Intern
+   Mist Solutions · Apr–May 2025
+   React · Node · Spring · REST APIs
+
+🏢 Frontend Dev Intern
+   Titan Company (Jewellery) · Dec–Jan 2025
+   UI components · Production dashboards
+
+🎓 B.Tech Information Technology
+   SKCT Coimbatore · 2023–Present
+   CGPA: 8.58 / 10
 ```
+
+</td>
+<td width="50%">
+
+### 📜 Certifications
+```
+✅ Python Essentials
+   Cisco Network Academy
+
+✅ Cybersecurity Intro
+   Cisco Networking Academy
+
+✅ Data Science
+   IBM Cognitive Class
+
+✅ Virtualization & Cloud
+   Infosys Springboard
+
+✅ Java Foundation
+   Infosys Springboard
+
+✅ Cloud Computing · NPTEL
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📜 Certifications
+## 🐍 Watch My Contributions Get Eaten
 
-```
-✅  Python Essentials              — Cisco Network Academy
-✅  Introduction to Cybersecurity  — Cisco Networking Academy
-✅  Data Science                   — IBM Cognitive Class
-✅  Virtualization & Cloud         — Infosys Springboard
-✅  Java Foundation                — Infosys Springboard
-✅  Cloud Computing                — NPTEL
-```
+<div align="center">
+
+![snake gif](https://github.com/Snehar273/Snehar273/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
 <div align="center">
 
-<!-- Footer wave -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer)
+### 💬 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-**💜 Thanks for visiting! If you find my work interesting, drop a ⭐ on any repo!**
+<br/>
 
-*"Code is poetry written in logic."*
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Let's+build+something+amazing!&fontSize=22&fontColor=C084FC&animation=twinkling&fontAlignY=65)
+
+**⭐ Star my repos if you find them useful · Let's connect and build together!**
 
 </div>
