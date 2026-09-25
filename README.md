@@ -44,7 +44,7 @@
 
 📍 &nbsp;Coimbatore, Tamil Nadu 🇮🇳
 
-💼 &nbsp;Final year B.Tech IT @ SKCT · **CGPA 8.58**
+💼 &nbsp;Final year B.Tech IT @ SKCT · **CGPA 8.61**
 
 🎯 &nbsp;Actively looking for **ML / Full Stack / AI roles**
 
@@ -155,7 +155,7 @@
     └─ Production dashboards · Responsive UI · Real team · Real deadlines
 
 🎓  B.Tech IT              SKCT, Coimbatore                   2023 – Present
-    └─ CGPA: 8.58 / 10 · SIH 2024 Finalist · Top 50 Teams
+    └─ CGPA: 8.61 / 10 · SIH 2024 Finalist · Top 50 Teams
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
