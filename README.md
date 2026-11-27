@@ -44,7 +44,7 @@
 
 📍 &nbsp;Coimbatore, Tamil Nadu 🇮🇳
 
-💼 &nbsp;Final-year **B.Tech IT** @ SKCT · **CGPA 8.61**
+💼 &nbsp;Final-year **B.Tech IT** @ SKCT · **CGPA 8.63**
 
 🎯 &nbsp;Actively looking for **Data Analyst / ML / Full Stack** roles
 
